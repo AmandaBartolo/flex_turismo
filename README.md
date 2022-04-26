@@ -1,5 +1,5 @@
 # Flex Turismo
-Página responsiva de turismo realizada para treinar o uso de flexbox.
+Página responsiva de turismo realizada para treinar o uso de flexbox. Realizada como desafio do Digital Innovation One. 
 
 # Pré-visualização
 <div align="center">
