@@ -1,4 +1,4 @@
-# flex_turismo
+# Flex Turismo
 Página responsiva de turismo realizada para treinar o uso de flexbox.
 
 # Pré-visualização
