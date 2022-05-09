@@ -13,6 +13,9 @@ https://user-images.githubusercontent.com/101134812/165348756-9890a947-0646-4567
 # O projeto
 É uma página simulando uma empresa de turismo. Nela você encontra informações sobre a empresa, os serviços prestados e os planos disponíveis. 
 
+# Link do projeto
+https://amandabartolo.github.io/flex_turismo/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
